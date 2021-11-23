@@ -3,6 +3,7 @@ module github.com/loheagn/gopic
 go 1.17
 
 require (
+	github.com/jinzhu/copier v0.3.2
 	github.com/minio/minio-go/v6 v6.0.57
 	github.com/spf13/cobra v1.2.1
 )
